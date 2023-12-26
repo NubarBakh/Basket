@@ -1,0 +1,17 @@
+.mainn{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(193, 8, 8);
+    color: white;
+}
+
+ul{
+    display: flex;
+    gap: 50px;
+    
+}
+li{
+   
+list-style: none;
+margin-top: 35px;
+}
